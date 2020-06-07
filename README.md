@@ -1,6 +1,6 @@
 # Angular1
 
-Project to learn about the basics of Angular 9
+Project to learn about the basics of Angular 9\
 User can enter a GitHub username and see some basic data associated with that user profile
 
 
