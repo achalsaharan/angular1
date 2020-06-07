@@ -1,7 +1,8 @@
 # Angular1
 
-Project to learn about the basics of Angular 9\
-User can enter a GitHub username and see some basic data associated with that user profile
+Project to learn about the basics of `Angular 9`\
+User can enter a GitHub username and see some basic data associated with that user profile\
+<img src="https://d33wubrfki0l68.cloudfront.net/59f29676ef5e4d74685e14f801bbc10c2dbd3cef/c0688/lesson-images/markdown-1-markup.png" alt="drawing" width="200"/>
 
 
 ## Development server
